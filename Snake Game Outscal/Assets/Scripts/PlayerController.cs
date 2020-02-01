@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour
     private bool createNodeAtTail;
     private string[] color;
     private string[] points;
-    private int point = 20;
+    private int point = 15;
 
     // Start is called before the first frame update
     void Awake()
