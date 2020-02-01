@@ -15,4 +15,6 @@ In this game, you can manually set the properties of food items. We can define o
 <br/>6 = Cyan
 <br/>7 = Blue
 
+Another parameter is points. The point that you define under the column folder in the Food.csv file will the value of points that's gonna get added with the current score of player while eating the corresponding fruit.
+
 
