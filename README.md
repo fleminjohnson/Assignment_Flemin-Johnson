@@ -17,4 +17,6 @@ In this game, you can manually set the properties of food items. We can define o
 
 Another parameter is points. The point that you define under the column folder in the Food.csv file will the value of points that's gonna get added with the current score of player while eating the corresponding fruit.
 
+The video is can be viewed in https://www.youtube.com/watch?v=BHTwaBs_1A8
+
 
